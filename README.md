@@ -2,7 +2,7 @@
 # Microservices-project
 
 ## Overview
-This project aims to [briefly describe the purpose and goals of your project]. It includes features such as [list key features].
+This mini project centers around creating a user-post-comment system with microservices architecture. It utilizes gRPC, REST, and GraphQL for seamless communication between services, catering to diverse integration requirements. The project is currently in the process of integrating Kafka for robust message queuing within the system.
 
 ## Technologies Used
 - Node.js
